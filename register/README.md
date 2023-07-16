@@ -3,16 +3,13 @@
 ## Register Architecture
 
 <p align="center">
-  <img src="https://github.com/A-Hares/VeriRisc_CPU/assets/139650137/53c71393-9a76-4af9-9a5b-2f3b8c536194" />
-</p>
-<p align="center">
-  <img src="https://github.com/A-Hares/VeriRisc_CPU/assets/139650137/13ba21a0-9a52-4362-bb36-62eb3b011ada" />
+  <img src="https://github.com/A-Hares/VeriRisc_CPU/assets/139650137/473fcee5-ee67-4526-9dd6-5e3764487065" />
 </p>
 
 ## TestBench Results
 <p align="center">
-  <img src="https://github.com/A-Hares/VeriRisc_CPU/assets/139650137/0213b7d2-a2e9-433d-8b2e-0580c8e92fe0" />
+  <img src="https://github.com/A-Hares/VeriRisc_CPU/assets/139650137/202712d2-fcff-471f-9d1e-385f3c0668b1" />
 </p>
 <p align="center">
-  <img src="https://github.com/A-Hares/VeriRisc_CPU/assets/139650137/7ed6ebc7-c726-4024-a69f-b06d2bdbe10f" />
+  <img src="https://github.com/A-Hares/VeriRisc_CPU/assets/139650137/a74efb79-cd9f-4840-aea5-ba02e660ce82" />
 </p>
